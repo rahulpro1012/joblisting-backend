@@ -39,6 +39,7 @@ Get Job:
 
 <img src="https://github.com/rahulpro1012/joblisting-backend/blob/main/sample%20.png?raw=true" width="750" height="450" hspace="20" />
 <br>
+<br>
 output - 
 <br>
 <br>
