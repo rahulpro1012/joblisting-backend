@@ -23,4 +23,25 @@ Hire Talent:
 <img src="https://github.com/rahulpro1012/joblisting-backend/blob/main/Hire%20page.png?raw=true" width="750" height="450" hspace="20"/>
 </p>
 
+Get Job:
+<br>
+<br>
+<p float="left">
+
+<img src="https://github.com/rahulpro1012/joblisting-backend/blob/main/List%20of%20jobs.png?raw=true" width="750" height="450" hspace="20" />
+
+</p>
+
+# Sample Working :
+<br>
+<br>
+<p float="left">
+
+<img src="https://github.com/rahulpro1012/joblisting-backend/blob/main/sample%20.png?raw=true" width="750" height="450" hspace="20" />
+<br>
+output - 
+<br>
+<img src="https://github.com/rahulpro1012/joblisting-backend/blob/main/sample%20job.png?raw=true" width="750" height="450" hspace="20"/>
+</p>
+
 <br>
